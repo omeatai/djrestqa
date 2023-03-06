@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-u+4gdg_p_7oikcb#p*#vob1*fp@mks*!6cn5igwigzg=c5^m+o
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost', 'ifeanyi.pythonanywhere.com']
+ALLOWED_HOSTS = ['localhost', 'omeatai.pythonanywhere.com']
 
 
 # Application definition
